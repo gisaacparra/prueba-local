@@ -1,8 +1,8 @@
 cd "d:\VS CODE"
 git init
-git add .
+git add .d:\VS CODE
 git commit -m "Publicar sitio - pages workflow"
 git branch -M main
 # reemplaza la URL por la URL de tu repo en GitHub:
-git remote add origin https://github.com/TU_USUARIO/TU_REPO.git
+git remote add origin https://github.com/gisaacparra/prueba-local.git
 git push -u origin main
